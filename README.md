@@ -31,7 +31,7 @@ Installation of ClipBucket is simple and straight forward. Click the link below 
 </br>
 <a href="http://clip-bucket.com/index.php?mode=guides&action=list">View All Video Guides</a>
 
-! Notice : Now we face an error in 4.x versions when we want to create anything in Collections, Videos, Photos and somewhere else ... please be patient,  new updates are comming soon ... !
+! Notice : Now we face an error in 4.x versions when we want to create anything in Collections, Videos, Photos and somewhere else ... please be patient,  new updates are comming soon ... ! 
 
 
 
